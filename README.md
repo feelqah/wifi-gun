@@ -5,6 +5,12 @@ TODO:
  - beautify this page
 
 
+TODO: 
+  - resize images
+  - prettify the readme
+  - add schematics
+  - add instructions
+
 ![wifi gun](images/wifigun1.jpg)
 
 
