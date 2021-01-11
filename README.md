@@ -1,4 +1,9 @@
 # wifi-gun
+(This page needs updating)
+TODO:
+ - Add schematic photo of the antenna
+ - beautify this page
+
 
 ![wifi gun](images/wifigun1.jpg)
 
