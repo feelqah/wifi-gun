@@ -1,11 +1,8 @@
 # wifi-gun
 (This page needs updating)
 TODO:
- - Add schematic photo of the antenna
- - beautify this page
-
-
-TODO: 
+  - Add schematic photo of the antenna
+  - beautify this page
   - resize images
   - prettify the readme
   - add schematics
